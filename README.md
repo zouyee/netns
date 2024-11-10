@@ -1,4 +1,4 @@
-# netns - network namespaces in go #
+# netns - network namespaces in zig #
 
 The netns package provides an ultra-simple interface for handling
 network namespaces in zig. Changing namespaces requires elevated
